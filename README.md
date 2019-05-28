@@ -6,7 +6,7 @@
 Material Design Expandable Panel Layout Library.
 &nbsp;
 &nbsp;
-![gif](https://github.com/syaikhanagil/expanel/blob/master/prev/prev.gif) ![img](https://github.com/syaikhanagil/expanel/blob/master/prev/ss-1.png) ![img2](https://github.com/syaikhanagil/expanel/blob/master/prev/ss-2.png)
+<img src="prev/ss-1.png" height='auto' width='270'/>&nbsp;&nbsp;<img src="prev/ss-2.png" height='auto' width='270'/>&nbsp;&nbsp;<img src="prev/prev.gif" height='auto' width='270'/>
 &nbsp;
 _______
 &nbsp;
