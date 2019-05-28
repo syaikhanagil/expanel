@@ -4,7 +4,13 @@
 ## ExPanel
 &nbsp;
 Material Design Expandable Panel Layout Library.
-
+&nbsp;
+&nbsp;
+![gif](https://github.com/syaikhanagil/expanel/blob/master/prev/prev.gif) ![img](https://github.com/syaikhanagil/expanel/blob/master/prev/ss-1.png) ![img2](https://github.com/syaikhanagil/expanel/blob/master/prev/ss-2.png)
+&nbsp;
+_______
+&nbsp;
+&nbsp;
 ## Import
 
 ```groovy
