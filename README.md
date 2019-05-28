@@ -7,13 +7,11 @@ Material Design Expandable Panel Layout Library.
 &nbsp;
 &nbsp;
 <div align="center">
-<img src="prev/ss-1.png" height='auto' width='250'/>&nbsp;&nbsp;<img src="prev/ss-2.png" height='auto' width='250'/>&nbsp;&nbsp;
-&nbsp;<img src="prev/prev.gif" height='auto' width='270'/>
+<img src="prev/ss-1.png" height='auto' width='250'/>&nbsp;&nbsp;<img src="prev/ss-2.png" height='auto' width='250'/>&nbsp;&nbsp;<img src="prev/prev.gif" height='auto' width='240'/>
 </div>
-&nbsp;
+
 _______
-&nbsp;
-&nbsp;
+
 ## Import
 
 ```groovy
