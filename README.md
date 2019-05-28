@@ -3,11 +3,17 @@
 &nbsp;
 ## ExPanel
 &nbsp;
+<br>
+<div align="center">
+<img src="prev/ss-1.png" height='auto' width='300'/>&nbsp;&nbsp;<img src="prev/ss-2.png" height='auto' width='300'/>
+</div>
+<br>
 Material Design Expandable Panel Layout Library.
+&nbsp;<br>
 &nbsp;
 &nbsp;
 <div align="center">
-<img src="prev/ss-1.png" height='auto' width='250'/>&nbsp;&nbsp;<img src="prev/ss-2.png" height='auto' width='250'/>&nbsp;&nbsp;<img src="prev/prev.gif" height='auto' width='240'/>
+<img src="prev/prev.gif" height='auto' width='270'/>
 </div>
 
 _______
