@@ -1,4 +1,8 @@
+[![Build](https://img.shields.io/badge/Build-Passing-brightgreen.svg)](https://github.com/syaikhanagil/expanel/) &nbsp;&nbsp; [![JitPack](https://img.shields.io/badge/jitpack-1.0.0-brightgreen.svg)](https://jitpack.io/#syaikhanagil/expanel) &nbsp;&nbsp; [![License](https://img.shields.io/badge/Lincense-Apache%202.0-brightgreen.svg)](https://opensource.org/licenses/Apache-2.0)
+&nbsp;
+&nbsp;
 ## ExPanel
+&nbsp;
 Material Design Expandable Panel Layout Library.
 
 ## Import
@@ -95,8 +99,7 @@ Material Design Expandable Panel Layout Library.
 	});
 ```
 ## Credits
-Author : Syaikhan Agil
-<br>Blog : [syaikhanagil.net](https://syaikhanagil.net/)
+Author : Syaikhan Agil &nbsp; [![Blog ku](https://img.shields.io/badge/Site-https%3A%2F%2Fsyaikhanagil.net-brightgreen.svg)](https://syaikhanagil.net/)
 <br>Follow me &nbsp;&nbsp;
 <a href="https://facebook.com/syaikhanagil">
   <img alt="Syaikhan Agil" src="https://syaikhanagil.net/sosmed/facebook.png" />
