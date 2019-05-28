@@ -6,7 +6,10 @@
 Material Design Expandable Panel Layout Library.
 &nbsp;
 &nbsp;
-<img src="prev/ss-1.png" height='auto' width='270'/>&nbsp;&nbsp;<img src="prev/ss-2.png" height='auto' width='270'/>&nbsp;&nbsp;<img src="prev/prev.gif" height='auto' width='270'/>
+<div align="center">
+<img src="prev/ss-1.png" height='auto' width='250'/>&nbsp;&nbsp;<img src="prev/ss-2.png" height='auto' width='250'/>&nbsp;&nbsp;
+&nbsp;<img src="prev/prev.gif" height='auto' width='270'/>
+</div>
 &nbsp;
 _______
 &nbsp;
