@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_height="wrap_content"
+	android:layout_width="match_parent"
+	android:orientation="vertical"
+	xmlns:app="http://schemas.android.com/apk/res-auto">
+
+	<net.syaikhanagil.expanel.ExPanelHeader
+		android:layout_height="wrap_content"
+		android:layout_width="match_parent"
+		android:id="@+id/idHeader"
+		app:expanel_Indicator="@id/idIndicator"
+		app:expanel_layout="@id/idExPanel"
+		app:expanel_toggleOnClick="true">
+
+		<RelativeLayout
+			android:background="@android:color/white"
+			android:layout_height="48dp"
+			android:layout_width="match_parent"
+			android:paddingLeft="16dp"
+			android:paddingRight="16dp">
+
+			<TextView
+				android:layout_centerVertical="true"
+				android:layout_height="wrap_content"
+				android:layout_width="wrap_content"
+				android:text="Title"
+				android:textColor="#000000"/>
+
+			<TextView
+				android:layout_centerVertical="true"
+				android:layout_height="wrap_content"
+				android:layout_marginLeft="120dp"
+				android:layout_width="wrap_content"
+				android:text="Sumarry"
+				android:textColor="#AAA"/>
+
+			<android.support.v7.widget.AppCompatImageView
+				android:adjustViewBounds="true"
+				android:id="@id/idIndicator"
+				android:layout_alignParentRight="true"
+				android:layout_centerVertical="true"
+				android:layout_height="wrap_content"
+				android:layout_marginLeft="16dp"
+				android:layout_width="wrap_content"
+				app:srcCompat="@drawable/ic_expanelheader_indicators"/>
+
+		</RelativeLayout>
+
+	</net.syaikhanagil.expanel.ExPanelHeader>
+
+	<net.syaikhanagil.expanel.ExPanel
+		android:id="@id/idExPanel"
+		app:expanel_isExpand="false"
+		android:layout_height="wrap_content"
+		android:layout_width="match_parent">
+
+		<LinearLayout
+			android:id="@+id/container"
+			android:layout_height="wrap_content"
+			android:layout_width="match_parent"
+			android:orientation="vertical">
+
+			<TextView
+				android:background="#EEE"
+				android:gravity="center"
+				android:layout_height="100dp"
+				android:layout_width="match_parent"
+				android:text="Lorem Ipsum Dolor Sit Amet"/>
+
+		</LinearLayout>
+
+	</net.syaikhanagil.expanel.ExPanel>
+
+</LinearLayout>
+

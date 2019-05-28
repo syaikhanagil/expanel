@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="expanel_openOne" format="boolean"/>
+    <declare-styleable name="ExPanelGroupFrameLayout">
+        <attr name="expanel_openOne"/>
+    </declare-styleable>
+    <declare-styleable name="ExPanelGroupLinearLayout">
+        <attr name="expanel_openOne"/>
+    </declare-styleable>
+    <declare-styleable name="ExPanelGroupRelativeLayout">
+        <attr name="expanel_openOne"/>
+    </declare-styleable>
+    <declare-styleable name="ExPanelGroupConstraintLayout">
+        <attr name="expanel_openOne"/>
+    </declare-styleable>
+    <declare-styleable name="ExPanelHeader">
+        <attr name="expanel_layout" format="reference"/>
+        <attr name="expanel_toggleOnClick" format="boolean"/>
+        <attr name="expanel_Indicator" format="reference"/>
+        <attr name="expanel_IndicatorRotationExpand" format="integer"/>
+        <attr name="expanel_IndicatorRotationCollapsed" format="integer"/>
+    </declare-styleable>
+
+    <declare-styleable name="ExPanel">
+        <attr name="expanel_isExpand" format="boolean"/>
+    </declare-styleable>
+
+</resources>
