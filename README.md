@@ -20,7 +20,7 @@ _______
 ## Import
 
 ```groovy
-
+implementation 'net.syaikhanagil:expanel:1.0.0'
 ```
 &nbsp;<br>
 ## Usage
