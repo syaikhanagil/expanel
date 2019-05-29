@@ -1,4 +1,4 @@
-[![Build](https://img.shields.io/badge/Build-Passing-brightgreen.svg)](https://github.com/syaikhanagil/expanel/) &nbsp;&nbsp; [![JitPack](https://img.shields.io/badge/jitpack-1.0.0-brightgreen.svg)](https://jitpack.io/#syaikhanagil/expanel) &nbsp;&nbsp; [![License](https://img.shields.io/badge/Lincense-Apache%202.0-brightgreen.svg)](https://opensource.org/licenses/Apache-2.0)
+[![Build](https://img.shields.io/badge/Build-Passing-brightgreen.svg)](https://github.com/syaikhanagil/expanel/) &nbsp;&nbsp; [![Download](https://api.bintray.com/packages/syaikhan-agil/expanel/net.syaikhanagil.expanel/images/download.svg) ](https://bintray.com/syaikhan-agil/expanel/net.syaikhanagil.expanel/_latestVersion) &nbsp;&nbsp; [![License](https://img.shields.io/badge/Lincense-Apache%202.0-brightgreen.svg)](https://opensource.org/licenses/Apache-2.0)
 &nbsp;<br>
 &nbsp;
 ## ExPanel
