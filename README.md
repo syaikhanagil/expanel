@@ -1,29 +1,28 @@
 [![Build](https://img.shields.io/badge/Build-Passing-brightgreen.svg)](https://github.com/syaikhanagil/expanel/) &nbsp;&nbsp; [![JitPack](https://img.shields.io/badge/jitpack-1.0.0-brightgreen.svg)](https://jitpack.io/#syaikhanagil/expanel) &nbsp;&nbsp; [![License](https://img.shields.io/badge/Lincense-Apache%202.0-brightgreen.svg)](https://opensource.org/licenses/Apache-2.0)
-&nbsp;
+&nbsp;<br>
 &nbsp;
 ## ExPanel
-&nbsp;
-<br>
+Material Design Expandable Panel Layout Library.
+&nbsp;<br>
 <div align="center">
 <img src="prev/ss-1.png" height='auto' width='300'/>&nbsp;&nbsp;<img src="prev/ss-2.png" height='auto' width='300'/>
 </div>
 <br>
-Material Design Expandable Panel Layout Library.
-&nbsp;<br>
-&nbsp;
 &nbsp;
 <div align="center">
 <img src="prev/prev.gif" height='auto' width='270'/>
 </div>
+&nbsp;<br>
 
 _______
+
 
 ## Import
 
 ```groovy
 
 ```
-&nbsp;
+&nbsp;<br>
 ## Usage
 ```xml
 <LinearLayout
@@ -94,7 +93,7 @@ _______
 </LinearLayout>
 
 ```
-
+&nbsp;<br>
 • You must connect ExpanelHeader and Layout with attribute `expanel_layout`, they must have the same parent
 <br>• Define the indicator view with attribute `expanel_Indicator`
 <br>• Modify the header indicator rotation use attribute `expanel_IndicatorRotationExpand` and `expanel_IndicatorRotationCollapsed`
@@ -111,6 +110,7 @@ _______
 		}
 	});
 ```
+&nbsp;<br>
 ## Credits
 Author : Syaikhan Agil &nbsp; [![Blog ku](https://img.shields.io/badge/Site-https%3A%2F%2Fsyaikhanagil.net-brightgreen.svg)](https://syaikhanagil.net/)
 <br>Follow me &nbsp;&nbsp;
@@ -121,9 +121,8 @@ Author : Syaikhan Agil &nbsp; [![Blog ku](https://img.shields.io/badge/Site-http
 </a>&nbsp;&nbsp;&nbsp;<a href="https://twitter.com/syaikhanagil">
   <img alt="Syaikhan Agil" src="https://syaikhanagil.net/sosmed/twitter.png" />
 </a>
-
+&nbsp;<br>
 ### License
---------
 ```
    Copyright 2019 Syaikhan Agil
 
