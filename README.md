@@ -19,9 +19,16 @@ _______
 
 ## Import
 
+if your project using android support library, you can use previous version.
 ```groovy
 implementation 'net.syaikhanagil:expanel:1.0.0'
 ```
+&nbsp;<br>
+for v1.0.1 and furthermore migrated to androidx (Jetpack)
+```groovy
+implementation 'net.syaikhanagil:expanel:1.0.1'
+```
+
 &nbsp;<br>
 ## Usage
 ```xml

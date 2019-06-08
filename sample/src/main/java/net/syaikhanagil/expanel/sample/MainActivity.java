@@ -1,9 +1,8 @@
 package net.syaikhanagil.expanel.sample;
 
-import android.app.*;
 import android.os.*;
-import android.support.v7.app.*;
-import net.syaikhanagil.expanel.*;
+import androidx.appcompat.app.AppCompatActivity;
+import net.syaikhanagil.expanel.ExPanel;
 
 public class MainActivity extends AppCompatActivity 
 {

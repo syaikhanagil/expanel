@@ -21,14 +21,17 @@ package net.syaikhanagil.expanel;
 import android.animation.*;
 import android.content.*;
 import android.content.res.*;
-import android.os.*;
-import android.support.annotation.*;
-import android.support.v4.widget.*;
-import android.util.*;
-import android.view.*;
-import android.view.View.*;
+import android.os.Bundle;
+import android.os.Parcelable;
+import android.util.AttributeSet;
+import android.view.View;
+import android.view.ViewTreeObserver;
+import android.view.ViewGroup;
+import android.view.View.OnClickListener;
+import androidx.annotation.NonNull;
+import androidx.annotation.Nullable;
+import androidx.core.widget.NestedScrollView;
 import java.util.*;
-import net.syaikhanagil.expanel.*;
 /**
  * Created By Syaikhan Agil on 29/05/2019
  **/

@@ -21,13 +21,11 @@ package net.syaikhanagil.expanel;
 import android.animation.*;
 import android.content.*;
 import android.content.res.*;
-import android.support.annotation.*;
 import android.util.*;
 import android.view.*;
-import android.view.View.*;
 import android.widget.*;
+import androidx.annotation.*;
 import java.util.*;
-import net.syaikhanagil.expanel.*;
 /**
  * Created By Syaikhan Agil on 29/05/2019
  **/

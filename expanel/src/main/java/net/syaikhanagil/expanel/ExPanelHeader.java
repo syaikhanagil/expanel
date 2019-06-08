@@ -22,12 +22,10 @@ import android.animation.*;
 import android.content.*;
 import android.content.res.*;
 import android.os.*;
-import android.support.annotation.*;
 import android.util.*;
 import android.view.*;
-import android.view.View.*;
 import android.widget.*;
-import net.syaikhanagil.expanel.*;
+import androidx.annotation.*;
 /**
  * Created By Syaikhan Agil on 29/05/2019
  **/
